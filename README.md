@@ -1,6 +1,7 @@
 # Tic Tac Toe game from React tutorial
 
 [Demo](https://codepen.io/lh070355/pen/eYJBJXm)
+
 [Tutorial link](https://reactjs.org/tutorial/tutorial.html)
 
 ---
